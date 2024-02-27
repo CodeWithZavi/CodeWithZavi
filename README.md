@@ -39,4 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVwZx6BNTg1ocdGKvEyzL_eBRD8yJQMeYkitZLq1FzbUFo_OjSrRh9_9A-A&s)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVwZx6BNTg1ocdGKvEyzL_eBRD8yJQMeYkitZLq1FzbUFo_OjSrRh9_9A-A&s" alt="Snake animation" />

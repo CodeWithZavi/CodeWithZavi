@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://mcdn.wallpapersafari.com/medium/35/86/F7ncxp.jpg"  />
 
 
 
@@ -39,4 +39,4 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVwZx6BNTg1ocdGKvEyzL_eBRD8yJQMeYkitZLq1FzbUFo_OjSrRh9_9A-A&s)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVwZx6BNTg1ocdGKvEyzL_eBRD8yJQMeYkitZLq1FzbUFo_OjSrRh9_9A-A&s" alt="Snake animation" />
+

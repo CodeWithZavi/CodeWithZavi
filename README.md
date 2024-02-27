@@ -1,3 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Contribution Snake Animation</title>
+<style>
+  /* Define styles for the contribution box */
+  .contribution-box {
+    width: 720px; /* Adjust as needed */
+    height: 115px; /* Adjust as needed */
+    position: relative;
+    border: 1px solid #ddd;
+    overflow: hidden;
+  }
+  
+  /* Define styles for the snake animation */
+  .snake {
+    width: 12.5%; /* Adjust as needed */
+    height: 12.5%; /* Adjust as needed */
+    background-color: #4CAF50; /* Adjust as needed */
+    position: absolute;
+    animation: moveSnake 4s linear infinite;
+  }
+  
+  /* Define keyframes for the snake movement */
+  @keyframes moveSnake {
+    0% { left: 0; top: 0; }
+    25% { left: 25%; top: 0; }
+    50% { left: 25%; top: 25%; }
+    75% { left: 0; top: 25%; }
+    100% { left: 0; top: 0; }
+  }
+</style>
+</head>
+<body>
+
 <h2 align="left">Hi 👋 ! I'm Noman Shakir <hr></h2>
 <h4 align="left"> A passionate A full-stack developer from Pakistan </h4>
 
@@ -35,4 +72,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Contribution box with snake animation -->
+<div class="contribution-box">
+  <div class="snake"></div>
+</div>
+
+</body>
+</html>

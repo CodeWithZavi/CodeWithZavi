@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Snake Animation</title>
-<style>
-  /* Define styles for the snake */
-  .snake {
-    width: 20px;
-    height: 20px;
-    background-color: green;
-    position: absolute;
-    animation: moveSnake 4s linear infinite;
-  }
-  
-  /* Define keyframes for the snake movement */
-  @keyframes moveSnake {
-    0% { left: 0; top: 0; }
-    25% { left: 200px; top: 0; }
-    50% { left: 200px; top: 200px; }
-    75% { left: 0; top: 200px; }
-    100% { left: 0; top: 0; }
-  }
-</style>
-</head>
-<body>
-
 <h2 align="left">Hi 👋 ! I'm Noman Shakir <hr></h2>
 <h4 align="left"> A passionate A full-stack developer from Pakistan </h4>
 
@@ -34,7 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -63,8 +39,4 @@
 
 <br clear="both">
 
-<!-- Snake animation -->
-<div class="snake"></div>
-
-</body>
-</html>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />

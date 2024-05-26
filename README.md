@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋 ! I'm Noman Shakir <hr></h2>
+<h2 align="left">Hi 👋 ! I'm Noman Shakir</h2>
+<hr>
 <h4 align="left">A passionate full-stack developer from Pakistan</h4>
 
 <div align="center">
@@ -48,3 +49,33 @@
 </div>
 
 <br clear="both">
+
+<h3>About Me:</h3>
+<p align="left">I am a dedicated full-stack developer with a passion for creating innovative and efficient web solutions. With a strong foundation in both front-end and back-end technologies, I strive to deliver high-quality code and seamless user experiences.</p>
+
+<h3>Projects:</h3>
+<ul align="left">
+  <li><a href="https://github.com/maurodesouza/project1">Project 1</a> - A brief description of what this project entails.</li>
+  <li><a href="https://github.com/maurodesouza/project2">Project 2</a> - A brief description of what this project entails.</li>
+  <li><a href="https://github.com/maurodesouza/project3">Project 3</a> - A brief description of what this project entails.</li>
+</ul>
+
+<h3>My Blog:</h3>
+<p align="left">Check out my latest blog posts on <a href="https://medium.com/@your-profile">Medium</a> where I share insights on web development, best practices, and tips.</p>
+
+<h3>Hobbies and Interests:</h3>
+<p align="left">In my free time, I enjoy gaming, streaming on Twitch, and exploring new technologies. I'm always eager to learn and share knowledge with the community.</p>
+
+<!-- Add some design elements -->
+<hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maurodesouza&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>

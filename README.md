@@ -2,12 +2,11 @@
 <hr>
 <h4 align="left">A passionate full-stack developer from Pakistan</h4>
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-<img align="right" height="150" src="https://mcdn.wallpapersafari.com/medium/35/86/F7ncxp.jpg" alt="Wallpaper" />
 
 <h3>Languages and Tools:</h3>
 <div align="left">
@@ -17,11 +16,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
 </div>
@@ -73,9 +78,48 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maurodesouza&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maurodesouza&theme=dracula&no-frame=false&no-bg=true&margin-w=4&animate=true" alt="GitHub Trophy" />
 </div>
 
+<!-- Animated profile view counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
+      <h3>Live Profile Views</h3>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </div>
+    </div>
+  </div>
+  
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="JavaScript logo" style="border-radius:50%;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python logo" style="border-radius:50%;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React logo" style="border-radius:50%;" />
+  </div>
+  
+  <hr>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+    <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+    <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+    <img src="https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" />
+    <img src="https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  </div>
+  
+  <hr>
+  
+  <!-- Footer with more badges and logos -->
+  <div align="center">
+    <a href="https://github.com/maurodesouza">
+      <img src="https://img.shields.io/github/followers/maurodesouza?label=Follow&style=social" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/maurodesouza?tab=repositories">
+      <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source" />
+    </a>
+    <a href="https://github.com/maurodesouza">
+      <img src="https://img.shields.io/github/stars/maurodesouza?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
+    </a>
+  </div>
+  

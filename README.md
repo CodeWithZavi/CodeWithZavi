@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 ! I'm Zavain </h2>
+<h2 align="left">Hi 👋 ! I'm Noman Shakir </h2>
 <hr>
 <h4 align="left">A passionate full-stack developer from Pakistan</h4>
 

@@ -1,3 +1,16 @@
+<h1 align="center">
+  Hello, friend!
+  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+</h1>
+
+<p align="center">   
+  <a href="mailto:nayan101viper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+  <a href="https://www.linkedin.com/in/nayanpatil812/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
+  <a href="https://www.instagram.com/_avacode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+</p>
+
+
+<br/>
 <h2 align="left">Hi 👋 ! I'm Noman Shakir </h2>
 <hr>
 <h4 align="left">A passionate full-stack developer from Pakistan</h4>

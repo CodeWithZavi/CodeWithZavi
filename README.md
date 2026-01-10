@@ -68,9 +68,9 @@
 
 <h3>Projects:</h3>
 <ul align="left">
-  <li><a href= https://chomsainskanetfliiix.netlify.app>NETFLIX CLONE</a> - A brief description of what this project entails.</li>
-  <li><a href="https://github.com/maurodesouza/project2">Project 2</a> - A brief description of what this project entails.</li>
-  <li><a href="https://github.com/maurodesouza/project3">Project 3</a> - A brief description of what this project entails.</li>
+  <li><a href="https://codewithzaviportfolio.vercel.app/">Project 2</a> - A brief description of what this project entails.</li>
+  <li><a href="https://gymfitnessbynomanshakir.lovable.app/
+">Project 3</a> - A brief description of what this project entails.</li>
 </ul>
 
 <h3>My Blog:</h3>

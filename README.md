@@ -16,6 +16,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithZavi&label=Profile+Views&color=58a6ff&style=for-the-badge)
 
 ---
+<!-- Animated profile view counter -->
+<div align="center">
+    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
+      <h3>Live Profile Views</h3>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </div>
+    </div>
+  </div>
 
 ## About Me
 
@@ -219,15 +228,7 @@ I want to build AI-based products and startups in:
 ### Building AI systems. Learning deeply. Thinking like a founder. 🚀
 
 
-<!-- Animated profile view counter -->
-<div align="center">
-    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
-      <h3>Live Profile Views</h3>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </div>
-    </div>
-  </div>
+
   
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="JavaScript logo" style="border-radius:50%;" />

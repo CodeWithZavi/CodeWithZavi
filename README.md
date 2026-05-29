@@ -28,9 +28,17 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CodeWithZavi&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/CodeWithZavi?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
-<img src="https://img.shields.io/github/stars/CodeWithZavi?label=STARS&style=for-the-badge&color=f59e0b" />
+<!-- Animated profile view counter -->
+<div align="center">
+    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
+      <h3>Live Profile Views</h3>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </div>
+    </div>
+  </div>
+
+<div align="center">
 
 </div>
 
@@ -67,17 +75,7 @@ I do not only want to write code. I want to build real AI products that help peo
 </table>
 
 ---
-<!-- Animated profile view counter -->
-<div align="center">
-    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
-      <h3>Live Profile Views</h3>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </div>
-    </div>
-  </div>
 
-<div align="center">
 ## 🧠 Current Focus
 
 <div align="center">

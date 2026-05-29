@@ -78,31 +78,7 @@ I do not only want to write code. I want to build real AI products that help peo
 
 ---
 
-## 🏆 Flagship Research Direction
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:111827,50:1D4ED8,100:9333EA&text=VisionForge%20AI&fontColor=ffffff&fontSize=36&desc=Deep%20Learning%20Visual%20Computing%20Studio&descSize=15&descAlignY=72" />
-
-</div>
-
-### 👁️ VisionForge AI — Deep Learning Visual Computing Studio
-
-**VisionForge AI** is my main research direction for MS and future AI product development.
-
-It focuses on:
-
-- 🖼️ Image and video understanding
-- 🎯 Object detection and segmentation
-- 🧠 Vision-language interaction
-- 💬 Visual question answering
-- 🧊 Depth estimation and 3D visual representation
-- 🔐 Secure full-stack AI deployment
-- ⚙️ AI product engineering for real users
-
-> Goal: build AI systems that can **see, understand, explain, and visualize** real-world content.
-
----
 
 ## ⚽ Final Year Project — EliteFootX
 

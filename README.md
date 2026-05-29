@@ -13,17 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithzavii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithzavii)
 [![Gmail](https://img.shields.io/badge/Gmail-nomanshaker2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanshaker2@gmail.com)
 ---
-<!-- Animated profile view counter -->
-<div align="center">
-    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
-      <h3>Live Profile Views</h3>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </div>
-    </div>
-  </div>
 
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:2563EB,100:7C3AED&text=Noman%20Shakir&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI-First%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Visual%20AI%20Builder&descAlignY=62&descSize=18" />
 
@@ -77,7 +67,17 @@ I do not only want to write code. I want to build real AI products that help peo
 </table>
 
 ---
+<!-- Animated profile view counter -->
+<div align="center">
+    <div style="border: 2px solid #ccc; border-radius: 5px; padding: 10px; width: 150px;">
+      <h3>Live Profile Views</h3>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=maurodesouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </div>
+    </div>
+  </div>
 
+<div align="center">
 ## 🧠 Current Focus
 
 <div align="center">

@@ -1,71 +1,59 @@
-```html
-<h1 align="center">
-  Hey there, I'm Noman Shakir
-  <img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="40"/>
-</h1>
+# Hey there, I'm Noman Shakir 👋
 
-<h3 align="center">
-  AI-First Software Engineer • Full-Stack Developer • Computer Vision & Visual AI Enthusiast
-</h3>
+### AI-First Software Engineer | Full-Stack Developer | Computer Vision & Visual AI Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+software+systems;Full-Stack+%7C+AI%2FML+%7C+Computer+Vision+%7C+RAG;Final+Year+Project%3A+EliteFootX+AI+Football+Coach;Research+Focus%3A+VisionForge+AI+%26+Visual+Computing;Dream%3A+AI+Startups+%7C+Sports-Tech+%7C+Global+Impact" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://codewithzaviportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/CodeWithZavi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-CodeWithZavi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/codewithzavii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithzavii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nomanshaker2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nomanshaker2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeWithZavi&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+systems;Full-Stack+%7C+AI%2FML+%7C+Computer+Vision+%7C+RAG;Final+Year+Project%3A+EliteFootX+AI+Football+Coach;Research+Focus%3A+VisionForge+AI+%26+Visual+Computing;Dream%3A+AI+Startups+%7C+Sports-Tech+%7C+Global+Impact)
 
 ---
 
-## 👨‍💻 About Me
+## Connect With Me
 
-I am **Noman Shakir**, a **Software Engineering student at COMSATS University Islamabad, Abbottabad Campus**, focused on building intelligent, scalable, and user-centered software systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithzaviportfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeWithZavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithZavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithzavii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithzavii)
+[![Gmail](https://img.shields.io/badge/Gmail-nomanshaker2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanshaker2@gmail.com)
 
-My work sits at the intersection of:
-
-- 🤖 **Artificial Intelligence**
-- 👁️ **Computer Vision**
-- 🧠 **NLP / RAG / Multimodal AI**
-- 🌐 **Full-Stack Web Development**
-- ⚽ **AI-Based Sports Technology**
-- 🚀 **AI Startups & Product Engineering**
-
-I am not only interested in writing code. I want to build **real products**, solve meaningful problems, and create AI systems that can understand users, analyze data, see visual information, and generate useful feedback.
+![Profile Views](https://komarev.com/ghpvc/?username=CodeWithZavi&label=Profile+Views&color=58a6ff&style=for-the-badge)
 
 ---
 
-## 🚀 Current Focus
+## About Me
 
-- 🔭 Building **EliteFootX** — an AI-driven football coaching and training platform
-- 🧠 Researching **VisionForge AI** — a Deep Learning Visual Computing Studio
-- 👁️ Exploring **Computer Vision, Image/Video Understanding, Segmentation, Depth Estimation, and 3D Visual AI**
-- 💬 Working with **NLP, BERT-based models, RAG, embeddings, and AI chat systems**
-- 🌍 Preparing for MS research opportunities in **AI, Computer Vision, and Visual Computing**
-- 💼 Growing toward **AI startups, sports-tech products, and scalable AI businesses**
+I am **Noman Shakir**, a **Software Engineering student at COMSATS University Islamabad, Abbottabad Campus**.
+
+I focus on building intelligent and scalable software systems using:
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- NLP / RAG
+- Full-Stack Web Development
+- Visual Computing
+- AI-Based Sports Technology
+- Startup/Product Engineering
+
+My goal is to become an **AI researcher-engineer-entrepreneur** who builds useful AI products, sports-tech platforms, and scalable startup ideas.
 
 ---
 
-## 🧠 My Main Research Direction
+## Current Focus
 
-### **VisionForge AI — Deep Learning Visual Computing Studio**
+- Building **EliteFootX** — an AI-driven football coaching platform
+- Researching **VisionForge AI** — a Deep Learning Visual Computing Studio
+- Exploring **Computer Vision, Visual AI, Segmentation, Depth Estimation, and 3D Visual Representation**
+- Working with **NLP, BERT, RAG, embeddings, and AI chat systems**
+- Preparing for MS research opportunities in **AI, Computer Vision, and Visual Computing**
+- Growing toward **AI startups, sports-tech products, and business automation**
 
-A research-driven AI platform focused on:
+---
+
+## Main Research Direction
+
+### VisionForge AI — Deep Learning Visual Computing Studio
+
+**VisionForge AI** is my main research direction for MS and future AI product development.
+
+It focuses on:
 
 - Image and video understanding
 - Object detection and segmentation
@@ -75,28 +63,29 @@ A research-driven AI platform focused on:
 - 3D visual representation
 - Secure full-stack AI deployment
 
-My goal with VisionForge AI is to build a system that can **see, understand, explain, and visualize** real-world content using modern AI.
+The goal is to build AI systems that can **see, understand, explain, and visualize** real-world content.
 
 ---
 
-## ⚽ Final Year Project — EliteFootX
+## Final Year Project — EliteFootX
 
 **EliteFootX** is my AI-based football coaching and performance platform.
 
-It is designed to help players improve through:
+It helps players improve through:
 
 - Personalized AI coaching
 - Player progress tracking
-- Drill history and performance patterns
-- XP, streaks, and gamified growth
-- RAG-based AI coach direction
-- Future computer vision/video analysis for player feedback
+- Drill history
+- XP and streaks
+- Performance patterns
+- AI coach interaction
+- Future video/computer vision analysis
 
-This project connects my love for football, software engineering, AI, and sports technology.
+This project connects my interest in **football, AI, software engineering, and sports technology**.
 
 ---
 
-## 🧪 AI Internship Experience
+## AI Internship Experience
 
 I completed an **AI internship at Convo (Private) Limited, Islamabad**, in the **Data Science Department**.
 
@@ -105,154 +94,115 @@ During this internship, I worked with:
 - BERT-based NLP models
 - Text analysis
 - Text classification
-- Practical AI model workflows
+- Practical AI workflows
 - Real-world AI software exposure
-
-This experience helped me understand how AI models move from theory into real software environments.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### Programming Languages
+### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Full-Stack Development
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="Express.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI / ML / Data / Computer Vision
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" alt="OpenCV"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch"/>
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Databases, Tools & Cloud
+### Databases / Tools / Cloud
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="42" alt="Vercel"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🔥 Featured Project Areas
+## Featured Project Areas
 
 | Area | What I Build |
 |---|---|
-| **AI Coaching Systems** | Personalized training assistants, football coaching AI, player progress analysis |
-| **Computer Vision** | Recognition systems, segmentation, pose analysis, image/video understanding |
-| **NLP / RAG** | AI chat systems, embeddings, semantic search, document-aware assistants |
-| **Full-Stack Apps** | Dashboards, APIs, authentication, databases, deployment-ready systems |
-| **Visual Computing** | 3D previews, depth estimation, visual AI interfaces |
-| **Startup Products** | AI tools for sports, education, e-commerce, and business automation |
+| AI Coaching Systems | Personalized training assistants, football coaching AI, player progress analysis |
+| Computer Vision | Recognition systems, segmentation, image/video understanding |
+| NLP / RAG | AI chat systems, embeddings, semantic search, document-aware assistants |
+| Full-Stack Apps | Dashboards, APIs, authentication, databases, deployment-ready systems |
+| Visual Computing | Depth estimation, 3D previews, visual AI interfaces |
+| Startup Products | AI tools for sports, education, e-commerce, and business automation |
 
 ---
 
-## 🏗️ Projects I Am Building / Improving
+## Projects
 
-### ⚽ EliteFootX
+### EliteFootX
 AI-driven football coaching platform for player progress, drills, XP, AI feedback, and future video-based analysis.
 
-### 👁️ VisionForge AI
+### VisionForge AI
 Deep Learning Visual Computing Studio for segmentation, visual question answering, depth estimation, and 3D visual representation.
 
-### 🎥 EgoCoach AI
+### EgoCoach AI
 Egocentric video understanding system for first-person training videos, action recognition, and AI coaching feedback.
 
-### 🧍 AthletiVerse 3D
+### AthletiVerse 3D
 AI-based football player visualization and 3D training analysis platform using pose estimation and interactive visual feedback.
 
-### 😊 Facial Expression Analyzer
-Computer vision project for expression/emotion analysis using image processing and ML/CV techniques.
+### Facial Expression Analyzer
+Computer vision project for expression and emotion analysis using image processing and ML/CV techniques.
 
-### 🌟 Celebrity Recognition System
+### Celebrity Recognition System
 Computer vision classification project focused on recognition, feature extraction, and ML-based prediction.
 
-### 🏠 Bangalore House Price Prediction
+### Bangalore House Price Prediction
 Machine learning project for regression-based housing price prediction and data analysis.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithZavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithZavi&locale=en&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" alt="Top languages"/>
-</div>
+![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithZavi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithZavi&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZavi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithZavi&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithZavi&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub trophies"/>
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeWithZavi&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 ---
 
-## 📌 What I Believe
+## What I Believe
 
-> The future belongs to builders who can understand research, write production code, design useful products, and think like entrepreneurs.
+> The future belongs to builders who understand research, write production code, design useful products, and think like entrepreneurs.
 
-I want to become an **AI researcher-engineer-entrepreneur** who builds systems that are not only technically strong, but also useful, scalable, and valuable in the real world.
+I want to build AI systems that are not only technically strong, but also useful, scalable, and valuable in the real world.
 
 ---
 
-## 🌍 Long-Term Vision
+## Long-Term Vision
 
-My goal is to build AI-based products and startups in:
+I want to build AI-based products and startups in:
 
 - Sports technology
 - Visual computing
@@ -262,37 +212,11 @@ My goal is to build AI-based products and startups in:
 - Business intelligence
 - Human performance improvement
 
-I want to create technology that helps people train better, learn faster, work smarter, and access intelligent tools regardless of where they come from.
-
 ---
 
-## 🤝 Let's Connect
+## Final Line
 
-<p align="center">
-  <a href="https://codewithzaviportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/CodeWithZavi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-CodeWithZavi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/codewithzavii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nomanshaker2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding"/>
-</div>
-
-<h3 align="center">
-  Building AI systems. Learning deeply. Thinking like a founder. 🚀
-</h3>
-```
+### Building AI systems. Learning deeply. Thinking like a founder. 🚀
 
 
 <!-- Animated profile view counter -->

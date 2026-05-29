@@ -1,18 +1,3 @@
-# Hey there, I'm Noman Shakir 👋
-
-### AI-First Software Engineer | Full-Stack Developer | Computer Vision & Visual AI Enthusiast
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+systems;Full-Stack+%7C+AI%2FML+%7C+Computer+Vision+%7C+RAG;Final+Year+Project%3A+EliteFootX+AI+Football+Coach;Research+Focus%3A+VisionForge+AI+%26+Visual+Computing;Dream%3A+AI+Startups+%7C+Sports-Tech+%7C+Global+Impact)
-
----
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithzaviportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-CodeWithZavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithZavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithzavii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithzavii)
-[![Gmail](https://img.shields.io/badge/Gmail-nomanshaker2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanshaker2@gmail.com)
----
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:2563EB,100:7C3AED&text=Noman%20Shakir&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI-First%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Visual%20AI%20Builder&descAlignY=62&descSize=18" />

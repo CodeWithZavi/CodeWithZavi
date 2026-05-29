@@ -197,35 +197,7 @@ During this internship, I gained practical exposure to:
 
 ---
 
-## 🧭 What I Am Learning Next
 
-```mermaid
-mindmap
-  root((Noman Shakir))
-    AI
-      Machine Learning
-      Deep Learning
-      Computer Vision
-      NLP / RAG
-      Multimodal AI
-    Full Stack
-      React
-      Next.js
-      FastAPI
-      Node.js
-      Databases
-    Research
-      VisionForge AI
-      EgoCoach AI
-      AthletiVerse 3D
-    Business
-      AI Startups
-      Sports-Tech
-      E-Commerce Automation
-      SaaS Products
-```
-
----
 
 ## 📈 GitHub Analytics
 
